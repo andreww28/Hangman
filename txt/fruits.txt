@@ -1,0 +1,33 @@
+Apple
+Banana
+Avocado
+Blackberry
+Cherry
+Cherimoya
+Chico Fruit
+coconut
+dragonfruit
+durian
+gooseberry
+grape
+guava
+jackfruit
+kiwifruit
+lemon
+lime
+lychee
+mango
+mangosteen
+marionberry
+melon
+mulberry
+orange
+papaya
+pineapple
+pomelo
+raspberry
+rambutan
+star Fruit
+strawberry
+tomato
+watermelon

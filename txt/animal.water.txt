@@ -1,0 +1,20 @@
+shark
+crab
+shellfish
+jellyfish
+seahorse
+dolphin
+bangus
+whale
+seal
+octopus
+eels
+squids
+snails
+walrus
+starfish
+penguin
+oyster
+sea turtle
+sea urchin
+sea lion
