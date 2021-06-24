@@ -37,7 +37,7 @@ def main():
 
 def getRandomText():
     category = chosen_category.get()            #getting the selected option in optionmenu
-    random_list = Random_List()         #creating a instance of random_list class. This will help to access the list of random string based on the category
+    random_list = Random_List()         #creating an instance of random_list class. This will help to access the list of random string based on the category
 
     if category == "Person":
         choices = random_list.person()  #assigning the list of person name from random list class to variable choices
@@ -52,7 +52,7 @@ def getRandomText():
         choices = random_list.country()
 
     chosen_word = random.choice(choices)        #Choosing a random string from the selected list based on the chosen category
-    chosen_word = chosen_word.replace(" ", "\n")  #replacing the white spaces to new line
+    chosen_word = chosen_word.replace(" ", "\n")  #replacing the white spaces to new line to know that it is more than one word
     
     return chosen_word.upper()
 
