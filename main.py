@@ -19,7 +19,7 @@ wrong_guess_letter_list = []                #store all wrong guess letter that t
 
 chosen_category = StringVar()
 chosen_category.set("Person")
-options = ["Person", "Fruits", "Animals", "Country"]
+options = ["Fruits", "Person", "Country", "Animals"]
 
 chosen_category_animal = StringVar()
 chosen_category_animal.set("Land")
